@@ -1,0 +1,4 @@
+#ifndef CONSTANTS_GEO_SUN_H
+#define CONSTANTS_GEO_SUN_H
+
+#endif

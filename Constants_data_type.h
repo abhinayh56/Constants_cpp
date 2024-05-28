@@ -1,3 +1,6 @@
+#ifndef CONSTANTS_DATA_TYPE_H
+#define CONSTANTS_DATA_TYPE_H
+
 // data type constants
 #define INT_64_MIN      (-9223372036854775807i64 - 1)
 #define INT_64_MAX      9223372036854775807i64
@@ -45,3 +48,5 @@
 #define FLOAT_BIG       1e+30f  // a large 32-bit floating-point number
 #define DOUBLE_SMALL    1e-300  // a small 64-bit floating-point number
 #define DOUBLE_BIG      1e+300  // a large 64-bit floating-point number
+
+#endif

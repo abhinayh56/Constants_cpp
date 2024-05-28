@@ -1,3 +1,6 @@
+#ifndef CONSTANTS_UNITS_H
+#define CONSTANTS_UNITS_H
+
 // multiplicative conversion constants
 #define RAD_2_DEG  57.295779513082322864647721871733665   // from radians to degrees
 #define DEG_2_RAD  0.017453292519943295769236907684886127 // from degrees to radians
@@ -41,3 +44,5 @@
 #define EXBI  (1 << 60)
 #define ZEBI  (1 << 70)
 #define YOBI  (1 << 80)
+
+#endif
