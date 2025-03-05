@@ -1,4 +1,0 @@
-#ifndef CONSTANTS_GEO_MOON_H
-#define CONSTANTS_GEO_MOON_H
-
-#endif

@@ -1,4 +1,0 @@
-#ifndef CONSTANTS_ATM_SUN_H
-#define CONSTANTS_ATM_SUN_H
-
-#endif
